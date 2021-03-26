@@ -1,5 +1,3 @@
-// https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exsentences=1&exlimit=1&titles=sneeze&explaintext=1&formatversion=2
-
 package main
 
 import (
