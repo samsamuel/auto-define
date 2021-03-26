@@ -1,6 +1,12 @@
 # Auto Define
 Automatically define a list of terms using Wikipedia API. Built on Go.
 
+# Build
+
+go build auto-define.go
+
+Pre-built binaries can be found under releases. 
+
 # Usage: 
 
 In your terminal of choice:
