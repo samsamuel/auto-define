@@ -3,7 +3,7 @@ Automatically define a list of terms using Wikipedia API. Built on Go.
 
 # Build
 
-go build auto-define.go
+> go build /path/to/auto-define.go
 
 Pre-built binaries can be found under releases. 
 
